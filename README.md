@@ -1,2 +1,2 @@
 # soft_m
-## image for submission
+## Document for submission
