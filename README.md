@@ -1,7 +1,9 @@
 # Document for submission
-<br>
-<br>
-# RPN calc
 
-<br>
-# Arkanoid game
+## RPN calc
+laguage: golang
+
+
+## Arkanoid game
+lagauge: cpp
+tool: direct X
